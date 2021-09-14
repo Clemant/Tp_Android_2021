@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TP1</string>
+    <string name="list_name">Liste Utilisateur(s)</string>
+    <string name="list_button">Acceder aux utilisateur(s)</string>
+    <string name="welcome">Bienvenu</string>
+    <string name="male">Man</string>
+    <string name="female">Woman</string>
+</resources>
