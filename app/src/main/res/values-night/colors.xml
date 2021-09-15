@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#A9A9A9</color>
+    <color name="purple_500">@color/black</color>
+    <color name="purple_700">#03DAC5</color>
+    <color name="black">#882C383E</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="background_item">@color/cardview_dark_background</color>
+    <color name="text">@color/white</color>
+    <color name="border_color">@color/black</color>
+</resources>
