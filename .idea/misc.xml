@@ -7,12 +7,19 @@
         <entry key="..\:/Users/Victoire/AndroidStudioProjects/TP1/app/src/main/res/drawable/custom_background_header.xml" value="0.17083333333333334" />
         <entry key="..\:/Users/Victoire/AndroidStudioProjects/TP1/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1685185185185185" />
         <entry key="..\:/Users/Victoire/AndroidStudioProjects/TP1/app/src/main/res/drawable/my_background.xml" value="0.17083333333333334" />
-        <entry key="..\:/Users/Victoire/AndroidStudioProjects/TP1/app/src/main/res/layout/activity_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Victoire/AndroidStudioProjects/TP1/app/src/main/res/layout/activity_main.xml" value="0.13333333333333333" />
         <entry key="..\:/Users/Victoire/AndroidStudioProjects/TP1/app/src/main/res/layout/activity_recycle_view.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/Victoire/AndroidStudioProjects/TP1/app/src/main/res/layout/activity_weather.xml" value="0.23385416666666667" />
         <entry key="..\:/Users/Victoire/AndroidStudioProjects/TP1/app/src/main/res/layout/custumn_view.xml" value="0.22" />
         <entry key="..\:/Users/Victoire/AndroidStudioProjects/TP1/app/src/main/res/layout/item_custom_recycle_footer.xml" value="0.1546875" />
         <entry key="..\:/Users/Victoire/AndroidStudioProjects/TP1/app/src/main/res/layout/item_custom_recycler_footer.xml" value="0.2911458333333333" />
         <entry key="..\:/Users/Victoire/AndroidStudioProjects/TP1/app/src/main/res/layout/item_custom_recycler_header.xml" value="0.22" />
+        <entry key="..\:/Users/Victoire/AndroidStudioProjects/TP1/app/src/main/res/layout/user_activity.xml" value="0.2989583333333333" />
+        <entry key="..\:/Users/Victoire/AndroidStudioProjects/TP1/app/src/main/res/layout/user_item.xml" value="0.2989583333333333" />
+        <entry key="..\:/Users/Victoire/AndroidStudioProjects/TP1/app/src/main/res/layout/weather.xml" value="0.1796875" />
+        <entry key="..\:/Users/Victoire/AndroidStudioProjects/TP1/app/src/main/res/layout/weather_activity.xml" value="0.23385416666666667" />
+        <entry key="..\:/Users/Victoire/AndroidStudioProjects/TP1/app/src/main/res/layout/weather_item.xml" value="0.23385416666666667" />
+        <entry key="..\:/Users/Victoire/AndroidStudioProjects/TP1/app/src/main/res/layout/weatheritem.xml" value="0.1796875" />
         <entry key="..\:/Users/Victoire/AndroidStudioProjects/TP1/app/src/main/res/xml/animation.xml" value="0.1546875" />
       </map>
     </option>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "528863079590",
+    "project_id": "tp1clemserie",
+    "storage_bucket": "tp1clemserie.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528863079590:android:49b0635b0bb9cf78b65867",
+        "android_client_info": {
+          "package_name": "com.capou.tp1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528863079590-at49opc8td0gfm50hl2hfpbdhq4pol4c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSggedpSDAiDcnDR8aHdeJzzavj_Lama8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528863079590-at49opc8td0gfm50hl2hfpbdhq4pol4c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
